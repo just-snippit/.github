@@ -1,1 +1,1 @@
-![Snippit]("./banner/png")
+![Snippit](./banner.png)
