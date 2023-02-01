@@ -1,1 +1,1 @@
-![Snippit](https://github.com/just-snippit/blob/main/profile/banner.png)
+![Snippit](https://github.com/just-snippit/.github/tree/main/profile/banner.png)
